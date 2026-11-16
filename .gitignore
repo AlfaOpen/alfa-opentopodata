@@ -19,3 +19,5 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.idea
+.idea/*
